@@ -1,0 +1,14 @@
+{
+  "name": "electronproject",
+  "version": "1.0.0",
+  "description": "desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.1.2"
+  }
+}
